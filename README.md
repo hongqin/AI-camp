@@ -8,8 +8,8 @@ Tensorflow playground https://youtu.be/_lQPGO1vgiQ <br>
 CoLab MNIST classification https://youtu.be/-XZN9RDRubk <br> 
 
 Day 2:
-What is Generative AI? 
-Generative adversary neural networks
-Ethical and safety issues of generative AI
+What is Generative AI? <br> 
+Generative adversary neural networks <br> 
+Ethical and safety issues of generative AI <br> 
 
 
