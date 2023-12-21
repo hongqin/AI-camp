@@ -19,3 +19,6 @@ Jailbroken chatGPT <br>  https://www.scientificamerican.com/article/jailbroken-a
 
 GAN video <br> 
 https://youtu.be/TpMIssRdhco?feature=shared <br> 
+
+CoLab MNIT example on GAN <br> 
+https://github.com/hongqin/AI-camp/blob/main/GAN_MNIST.ipynb 
