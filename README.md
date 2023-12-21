@@ -7,7 +7,7 @@ From animal brain to neural network https://youtu.be/HaFmwoBujX0 <br>
 Tensorflow playground https://youtu.be/_lQPGO1vgiQ <br> 
 CoLab MNIST classification https://youtu.be/-XZN9RDRubk <br> 
 
-Day 2:
+Day 2:<br> 
 What is Generative AI? <br> 
 Generative adversary neural networks <br> 
 Ethical and safety issues of generative AI <br> 
