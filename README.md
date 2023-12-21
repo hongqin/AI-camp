@@ -16,3 +16,6 @@ Repeat prompt hack of ChatGPT <br>
 https://www.zdnet.com/article/chatgpt-can-leak-source-data-violate-privacy-says-googles-deepmind/ <br> 
 
 Jailbroken chatGPT <br>  https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/ <br> 
+
+GAN video <br> 
+https://youtu.be/TpMIssRdhco?feature=shared <br> 
