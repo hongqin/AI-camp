@@ -9,8 +9,8 @@ CoLab MNIST classification https://youtu.be/-XZN9RDRubk <br>
 
 Day 2:<br> 
 What is Generative AI? <br> 
-Generative adversary neural networks <br> 
-Transformer and pre-training. <br> 
+Generative adversary neural networks. https://youtu.be/seHZ2BKDFR0?feature=shared <br> 
+Transformer and pre-training. https://youtu.be/SaLSSUm2Yzk <br> 
 Ethical and safety issues of generative AI <br> 
 
 Repeat prompt hack of ChatGPT <br> 
